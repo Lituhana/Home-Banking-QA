@@ -20,7 +20,7 @@ The goal of the project is to practice and demonstrate my manual QA skills, incl
 
 The test cases for the authentication part are located in:
 
-- [Authentication Test Cases - on GitHub](02-Tests/Authentication-Test-Cases)
+- [Authentication Test Cases - on GitHub](02-Tests-Cases/Authentication-Test-Cases)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=0#gid=0)
 
 
@@ -32,5 +32,5 @@ The test cases for the authentication part are located in:
 
 The test cases for the dashboard part are located in:
 
-- [Dashboard Test Cases - on GitHub](02-Tests/Dashboard-Test-Cases)
+- [Dashboard Test Cases - on GitHub](02-Tests-Cases/Dashboard-Test-Cases)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=930553732#gid=930553732)
