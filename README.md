@@ -15,8 +15,8 @@ The goal of the project is to practice and demonstrate my manual QA skills, incl
 
 ### 🔐 Authentication Test Cases:
 
-- Validating login session and logout and negative testing (failed attempts with invalid credentials).
-
+- Validating login with valid credentials, logout validation and negative testing with invalid accounts.
+  
 The test cases for the authentication part are located in:
 
 - [Authentication Test Cases](02-Tests/Authentication-Test-Cases/)
