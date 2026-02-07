@@ -1,4 +1,4 @@
-# **MANUAL QA TESTING PROJECT** ## for a Home Banking Demo Application
+# **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application
 
 This repository contains the QA test cases for the Home Banking Web Application v3.0.
 
