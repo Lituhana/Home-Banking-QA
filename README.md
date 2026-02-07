@@ -4,7 +4,7 @@ This repository contains the QA test cases for the Home Banking Web Application 
 
 ## Project Structure:
 
-- `01-Documentation` → Functional specifications, requirement documents, etc.
+- **`01-Documentation`** → Functional specifications, requirement documents, etc.
 - `02-Tests` → Test cases
 - `03-Bug-Reports` → Test cases that failed
 - `04-Evidence` → Screenshots and videos
