@@ -11,7 +11,7 @@ This repository contains the QA test cases for the Home Banking Web Application 
 - **`05-Exploratory-Testing`**
 - `README.md`
 
-## Authentication Test Cases:
+### Authentication Test Cases:
 
 The test cases for the authentication part are located in:
 
