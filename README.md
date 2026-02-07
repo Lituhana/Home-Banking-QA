@@ -1,5 +1,4 @@
-# **MANUAL QA TESTING PROJECT**  ![v3.0](https://img.shields.io/badge/version-v3.0-blue)
-## for a Home Banking Demo Application![v3.0](https://img.shields.io/badge/version-v3.0-blue)
+# **MANUAL QA TESTING PROJECT** ## for a Home Banking Demo Application
 
 This repository contains the QA test cases for the Home Banking Web Application v3.0.
 
