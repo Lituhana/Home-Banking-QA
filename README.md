@@ -28,7 +28,7 @@ The goal of this project is to practice and demonstrate core manual QA skills, i
 
 ### 🔐 Authentication Test Cases:
 
-- **This section covers positive and negative authentication tests, focusing on access control and session handling.**
+- **This section covers positive and negative authentication tests, focusing on access control and session handling**
 
 The following test cases are included:
 
@@ -64,14 +64,23 @@ The test cases for the dashboard part are located in:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### 💵 Loan Test Cases:
+### 💵 Loan Test Cases
 
-- 
+- **This section focuses on validating the loan management functionality, including creation, validation rules, cancellation and early withdrawal test cases**
 
-The test cases for the loan part are located in:
+The following test cases are included:
 
-- [Authentication Test Cases - on GitHub](02-Test-Cases/Authentication-Test-Cases.xlsx)
-- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=0#gid=0)
+- Successful loan request
+- Maximum loan amount validation
+- Full loan repayment (
+- Early loan withdrawal availability 
+- Successful early withdrawal without interest
+- Early withdrawal with insufficient balance
+
+The test cases for the loan functionality are located in:
+
+- [Loan Test Cases - on GitHub](02-Test-Cases/Loan-Test-Cases.xlsx)
+- [Google Sheet / Excel version]()
 
 
--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
