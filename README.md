@@ -12,6 +12,7 @@ The goal of the project is to practice and demonstrate my manual QA skills, incl
 - **`05-Exploratory-Testing`** → Notes from exploratory testing sessions.
 - `README.md`
 
+
 ### 🔐 Authentication Test Cases:
 
 - Validating login session and logout and negative testing (failed attempts with invalid credentials).
@@ -20,6 +21,7 @@ The test cases for the authentication part are located in:
 
 - [Authentication Test Cases](02-Tests/Authentication-Test-Cases/)
 - [Google Sheet version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=0#gid=0)
+
 
 ### 🏦 Dashboard Test Cases:
 
