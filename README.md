@@ -8,10 +8,10 @@ The goal of this project is to practice and demonstrate core manual QA skills, i
 
 ## 🧪 Test Environment
 
-- Application: Home Banking Demo Web Application (v3.0)
+- Application: Home Banking Demo Web Application v3.0
 - Environment: Demo / Testing
 - Browsers: Google Chrome
-- Testing Type: Manual testing and exploratory testing
+- Testing Type: Manual and exploratory testing
 
 
 
