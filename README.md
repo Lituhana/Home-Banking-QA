@@ -9,7 +9,7 @@ This repository contains the QA test cases for the Home Banking Web Application 
 - **`03-Bug-Reports`** → Test cases that failed
 - **`04-Evidence`** → Screenshots and videos
 - **`05-Exploratory-Testing`**
-`README.md`
+- `README.md`
 
 ## Authentication Test Cases:
 
