@@ -81,7 +81,7 @@ The following test cases are included:
 The test cases for the loan functionality are located in:
 
 - [Loan Test Cases - on GitHub](02-Test-Cases/Loan-Test-Cases.xlsx)
-- [Google Sheet / Excel version]()
+- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=1705885976#gid=1705885976)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
