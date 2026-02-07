@@ -32,5 +32,5 @@ The test cases for the authentication part are located in:
 
 The test cases for the dashboard part are located in:
 
-- [Dashboard Test Cases - on GitHub](02-Tests-Cases/Dashboard-Test-Cases.xlsx)
+- [Dashboard Test Cases - on GitHub](02-Test-Cases/Dashboard-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=930553732#gid=930553732)
