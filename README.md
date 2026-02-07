@@ -1,22 +1,42 @@
 # **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application
 
 This repository contains a manual QA testing project for a Home Banking demo web application (version 3.0).
-The goal of the project is to practice and demonstrate my manual QA skills, including test case design, execution, bug reporting and evidence collection, following a basic real world testing workflow.
+The goal of this project is to practice and demonstrate core manual QA skills, including test case design, test execution, bug reporting and evidence collection, following a basic real world manual testing workflow.
+
+
+## 🧪 Test Environment
+
+- Application: Home Banking Demo Web Application (v3.0)
+- Environment: Demo / Testing
+- Browsers: Google Chrome
+- Testing Type: Manual testing and exploratory testing
+
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Project Structure:
 
-- **`01-Documentation`** → Functional specifications, requirement documents, etc.
-- **`02-Tests`** → Manual test cases executed.
-- **`03-Bug-Reports`** → Bug reports created based on failed test executions.
-- **`04-Evidence`** → Screenshots and videos.
+- **`01-Documentation`** → Functional specifications and test related documentation.
+- **`02-Tests`** → Executed manual test cases.
+- **`03-Bug-Reports`** → Bug reports created from failed test executions.
+- **`04-Evidence`** → Screenshots and videos as test evidence.
 - **`05-Exploratory-Testing`** → Notes from exploratory testing sessions.
 - `README.md`
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔐 Authentication Test Cases:
 
-- Validating login session and logout and negative testing (failed attempts with invalid credentials).
+- **This section covers positive and negative authentication tests, focusing on access control and session handling.**
+
+The following test cases are included:
+
+- Successful login with valid credentials
+- Login attempt with invalid credentials
+- Account lockout 
+- Successful logout
+- Documentation panel on the login screen
 
 The test cases for the authentication part are located in:
 
@@ -28,9 +48,30 @@ The test cases for the authentication part are located in:
 
 ### 🏦 Dashboard Test Cases:
 
-- 
+- **This section focuses on validating the main dashboard functionalities**
+
+The following test cases are included:
+
+- Product visualization
+- Recent transactions
+- Balance reset
 
 The test cases for the dashboard part are located in:
 
 - [Dashboard Test Cases - on GitHub](02-Test-Cases/Dashboard-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=930553732#gid=930553732)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### 💵 Loan Test Cases:
+
+- 
+
+The test cases for the loan part are located in:
+
+- [Authentication Test Cases - on GitHub](02-Test-Cases/Authentication-Test-Cases.xlsx)
+- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=0#gid=0)
+
+
+-------------------------------------------------------------------------------------------------------------------------------
