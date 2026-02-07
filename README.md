@@ -15,5 +15,5 @@ This repository contains the QA test cases for the Home Banking Web Application 
 
 The test cases for the authentication module are located in:
 
-- [Authentication-Test-Cases] - (02-Tests/Authentication-Test-Cases/) in this repository
-- [Google Sheet version] - (https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaL9FQ/edit?gid=0)
+- [Authentication-Test-Cases] (02-Tests/Authentication-Test-Cases/) in this repository
+- [Google Sheet version] (https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=0#gid=0)
