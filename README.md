@@ -1,8 +1,10 @@
-# **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application 💻🖥️
+# **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application 💻
 
 This repository contains a manual QA testing project for a Home Banking demo web application (version 3.0).
 The goal of this project is to practice and demonstrate core manual QA skills, including test case design, test execution, bug reporting and evidence collection, following a basic real world manual testing workflow.
 
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧪 Test Environment
 
