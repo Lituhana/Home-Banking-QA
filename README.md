@@ -1,14 +1,15 @@
 # **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application
 
-This repository contains the QA test cases for the Home Banking Web Application v3.0.
+This repository contains a manual QA testing project for a Home Banking demo web application (v3.0).
+The goal of the project is to practice and demonstrate my manual QA skills, including test case design, execution, bug reporting and evidence collection, following a basic real world testing workflow.
 
 ## Project Structure:
 
 - **`01-Documentation`** → Functional specifications, requirement documents, etc.
-- **`02-Tests`** → Test cases
-- **`03-Bug-Reports`** → Test cases that failed
-- **`04-Evidence`** → Screenshots and videos
-- **`05-Exploratory-Testing`**
+- **`02-Tests`** → Manual test cases executed .
+- **`03-Bug-Reports`** → Bug reports created based on failed test executions.
+- **`04-Evidence`** → Screenshots and videos.
+- **`05-Exploratory-Testing`** → Notes from exploratory testing sessions..
 - `README.md`
 
 ### Authentication Test Cases:
