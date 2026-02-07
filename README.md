@@ -9,7 +9,7 @@ The goal of the project is to practice and demonstrate my manual QA skills, incl
 - **`02-Tests`** → Manual test cases executed .
 - **`03-Bug-Reports`** → Bug reports created based on failed test executions.
 - **`04-Evidence`** → Screenshots and videos.
-- **`05-Exploratory-Testing`** → Notes from exploratory testing sessions..
+- **`05-Exploratory-Testing`** → Notes from exploratory testing sessions.
 - `README.md`
 
 ### Authentication Test Cases:
