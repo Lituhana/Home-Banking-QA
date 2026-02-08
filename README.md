@@ -73,7 +73,7 @@ The following test cases are included:
 
 - Successful loan request
 - Maximum loan amount validation
-- Full loan repayment (
+- Full loan repayment
 - Early loan withdrawal availability 
 - Successful early withdrawal without interest
 - Early withdrawal with insufficient balance
@@ -88,12 +88,14 @@ The test cases for the loan functionality are located in:
 
 ### 🔁 Transfer Test Cases
 
-- ****
+- **This section validates money movement between accounts, ensuring that business rules like transaction limits and CBU validation are working properly**
 
 The following test cases are included:
 
-- 
-- 
+- Successful transfer between own accounts 
+- Single operation amount limit validation
+- Daily transfer limit validation 
+- Invalid CBU length validation
 
 The test cases for the transfer functionality are located in:
 
@@ -103,16 +105,17 @@ The test cases for the transfer functionality are located in:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### 📈 Fixed Term Deposits Test Cases
+### ⌛ Fixed Term Deposits Test Cases
 
-- ****
+- **This section focuses on investment products, specifically the creation of fixed term deposits and the accurate calculation of interest rates and maturity dates**
 
 The following test cases are included:
 
-- 
-- 
+- Fixed term deposit constitution and interest calculation
+- Minimum investment amount validation ($1.000)
+- Maximum simultaneous active deposits limit (Max: 5)
 
-The test cases for the transfer functionality are located in:
+The test cases for the fixed term deposit functionality are located in:
 
 - [Fixed Term Deposits Test Cases - on GitHub](02-Test-Cases/Fixed-Term-Deposits-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=73838471#gid=73838471)
