@@ -78,7 +78,7 @@ The following test cases are included:
 - Successful early withdrawal without interest
 - Early withdrawal with insufficient balance
 
-The test cases for the loan functionality are located in:
+The test cases for the loan part are located in:
 
 - [Loan Test Cases - on GitHub](02-Test-Cases/Loan-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=1705885976#gid=1705885976)
@@ -97,7 +97,7 @@ The following test cases are included:
 - Daily transfer limit validation 
 - Invalid CBU length validation
 
-The test cases for the transfer functionality are located in:
+The test cases for the transfer part are located in:
 
 - [Transfer Test Cases - on GitHub](02-Test-Cases/Transfer-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=818843615#gid=818843615)
@@ -112,10 +112,10 @@ The test cases for the transfer functionality are located in:
 The following test cases are included:
 
 - Fixed term deposit constitution and interest calculation
-- Minimum investment amount validation ($1.000)
-- Maximum simultaneous active deposits limit (Max: 5)
+- Minimum investment amount validation
+- Maximum simultaneous active deposits limit
 
-The test cases for the fixed term deposit functionality are located in:
+The test cases for the fixed term deposit part are located in:
 
 - [Fixed Term Deposits Test Cases - on GitHub](02-Test-Cases/Fixed-Term-Deposits-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=73838471#gid=73838471)
@@ -132,7 +132,7 @@ The following test cases are included:
 - 
 - 
 
-The test cases for the service payment functionality are located in:
+The test cases for the service payment part are located in:
 
 - [Service Payment Test Cases - on GitHub](02-Test-Cases/Service-Payment-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=430665678#gid=430665678)
@@ -149,7 +149,7 @@ The following test cases are included:
 - 
 - 
 
-The test cases for the virtual card functionality are located in:
+The test cases for the virtual card part are located in:
 
 - [Virtual Card Test Cases - on GitHub](02-Test-Cases/Virtual-Card-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=424030347#gid=424030347)
