@@ -97,7 +97,7 @@ The following test cases are included:
 
 The test cases for the transfer functionality are located in:
 
-- [Loan Test Cases - on GitHub](02-Test-Cases/Transfer-Test-Cases.xlsx)
+- [Transfer Test Cases - on GitHub](02-Test-Cases/Transfer-Test-Cases.xlsx)
 - [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=818843615#gid=818843615)
 
 

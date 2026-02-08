@@ -28,7 +28,7 @@ The purpose is to define the testing scope, approach, resources and schedule.
 - Exploratory testing to identify unexpected behaviors
 - Defect reporting with evidence (screenshots and videos)
 
-## 5. Entry Criteria
+## 5. Entry Criteria 🔓
 
 - Application is accessible
 - Test environment is available
