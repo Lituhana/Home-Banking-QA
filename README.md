@@ -85,3 +85,71 @@ The test cases for the loan functionality are located in:
 
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+### 🔁 Transfer Test Cases
+
+- ****
+
+The following test cases are included:
+
+- 
+- 
+
+The test cases for the transfer functionality are located in:
+
+- [Loan Test Cases - on GitHub](02-Test-Cases/Transfer-Test-Cases.xlsx)
+- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=818843615#gid=818843615)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### 📈 Fixed Term Deposits Test Cases
+
+- ****
+
+The following test cases are included:
+
+- 
+- 
+
+The test cases for the transfer functionality are located in:
+
+- [Loan Test Cases - on GitHub](02-Test-Cases/Fixed-Term-Deposits-Test-Cases.xlsx)
+- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=73838471#gid=73838471)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+###  Service Payment Test Cases
+
+- ****
+
+The following test cases are included:
+
+- 
+- 
+
+The test cases for the service payment functionality are located in:
+
+- [Loan Test Cases - on GitHub](02-Test-Cases/Service-Payment-Test-Cases.xlsx)
+- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=430665678#gid=430665678)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### 💳 Virtual Card Test Cases
+
+- ****
+
+The following test cases are included:
+
+- 
+- 
+
+The test cases for the virtual card functionality are located in:
+
+- [Loan Test Cases - on GitHub](02-Test-Cases/Virtual-Card-Test-Cases.xlsx)
+- [Google Sheet / Excel version](https://docs.google.com/spreadsheets/d/1t88yE43r9wVuuUoNFoY1y9TbTT7ObUUGuqvRaaaL9FQ/edit?gid=424030347#gid=424030347)
+
+
+------------------------------------------------------------------------------------------------------------------------------
