@@ -2,7 +2,7 @@
 
 ## 1. Introduction ⚙️
 
-This document describes the test plan for the Home Banking Demo Web Application (v3.0). 
+This document describes the test plan for the Home Banking Demo Web Application (v3.0).   
 The purpose is to define the testing scope, approach, resources and schedule.
 
 ## 2. Scope 🎯
