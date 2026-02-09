@@ -1,4 +1,4 @@
-# Exploratory Testing Notes
+# 📝 Exploratory Testing Notes
 
 **Session Date:** 09-02-2026  
 **Focus:** UI/UX, Boundary Value Analysis, and Mobile Responsiveness.
