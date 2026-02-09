@@ -26,5 +26,3 @@ The layout should be fluid and responsive, all key fields such as "Cuenta origen
 ### 🐞📋 Obtained Result:
 
 The right side of the screen is clipped, and the user cannot see or interact with the full application form, you need to scroll down to see the below parts of the web page.
-
----------------------------------------------------------------------------------------------------------------------

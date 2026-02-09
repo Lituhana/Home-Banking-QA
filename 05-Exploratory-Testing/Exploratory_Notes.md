@@ -19,9 +19,9 @@
 
 - Product Clarification: Confirmed that the "Tarjeta de Crédito" shown in the Dashboard is a separate entity from the "Tarjetas Virtuales" section.
 
-- **UI Issue [BUG-DASH-01](https://github.com/Lituhana/Home-Banking-QA-Project/blob/main/04-Evidence/Screenshots%20%26%20Videos/BUGS/BUG-DASH-01.png):** Identified a lack of responsiveness in the Dashboard and other sections when resizing the window.
+- **UI Issue [(BUG-DASH-01)](https://github.com/Lituhana/Home-Banking-QA-Project/blob/main/04-Evidence/Screenshots%20%26%20Videos/BUGS/BUG-DASH-01.png):** Identified a lack of responsiveness in the Dashboard and other sections when resizing the window.
 
-- **Critical Issue [BUG-LOAN-02](https://github.com/Lituhana/Home-Banking-QA-Project/blob/main/04-Evidence/Screenshots%20%26%20Videos/BUGS/BUG-LOAN-02.mp4):** Discovered a major stability flaw, cancelling the oldest fixed term triggers a total UI deadlock, this is a critical bug since it leaves the user unable to navigate or log out.
+- **Critical Issue [(BUG-LOAN-02)](https://github.com/Lituhana/Home-Banking-QA-Project/blob/main/04-Evidence/Screenshots%20%26%20Videos/BUGS/BUG-LOAN-02.mp4):** Discovered a major stability flaw, cancelling the oldest fixed term triggers a total UI deadlock, this is a critical bug since it leaves the user unable to navigate or log out.
 
 
 ### 🚀 Conclusion
