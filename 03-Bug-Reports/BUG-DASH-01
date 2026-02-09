@@ -13,11 +13,11 @@ The Home Banking dashboard and "Transferencias" section do not adjust correctly 
 1. Log in and go to the dashboard section.
 2. Resize the browser window to a smaller width.
 3. Visualize how key parts of the web are not visible.
-4. Then move to "Transferencias" tab, and see how it losses its responsiveness too.
+4. Then move to the "Transferencias" tab and see how it loses its responsiveness too.
 
 ### Expected Result:
 
-The dashboard and transfer seccion, should resize and show the key points, like buttons and fields to enter data like "Cuenta origen" and "Cuenta destino".
+The layout should be fluid and responsive, all key fields such as "Cuenta origen" and "Cuenta destino" along with the "Transferir" button should be visible and properly aligned without horizontal clipping.
 
 ### Obtained Result:
 
