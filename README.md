@@ -107,7 +107,7 @@ The test cases for the transfer part are located in:
 
 ### ⌛ Fixed Term Deposits Test Cases
 
-- **This section focuses on investment products, specifically the creation of fixed term deposits and the accurate calculation of interest rates and maturity dates**
+- **This section focuses on the creation of fixed term deposits and the accurate calculation of interest rates and maturity dates**
 
 The following test cases are included:
 
