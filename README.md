@@ -173,7 +173,7 @@ The test cases for the virtual card part are located in:
 | Virtual Cards | 3 | 3 | 0 | ✅ Passed |
   
   
-  **Total Execution Rate: 100% | Success Rate: 100%**
+**Total Execution Rate: 100% | Success Rate: 100%**
 
 ------------------------------------------------------------------------------------------------------------------------------
 
