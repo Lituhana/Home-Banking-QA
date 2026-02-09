@@ -171,8 +171,9 @@ The test cases for the virtual card part are located in:
 | Fixed Term | 3 | 3 | 0 | ✅ Passed |
 | Service Payments | 2 | 2 | 0 | ✅ Passed |
 | Virtual Cards | 3 | 3 | 0 | ✅ Passed |
-
-**Total Execution Rate: 100% | Success Rate: 100%**
+  
+  
+  **Total Execution Rate: 100% | Success Rate: 100%**
 
 ------------------------------------------------------------------------------------------------------------------------------
 
