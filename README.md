@@ -159,3 +159,25 @@ The test cases for the virtual card part are located in:
 
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+## 📊 Test Execution Summary
+
+| Module | Test Cases | Passed | Failed | Status |
+| :--- | :---: | :---: | :---: | :--- |
+| Authentication | 5 | 5 | 0 | ✅ Passed |
+| Dashboard | 3 | 3 | 0 | ✅ Passed |
+| Loans | 6 | 6 | 0 | ✅ Passed |
+| Transfers | 4 | 4 | 0 | ✅ Passed |
+| Fixed Term | 3 | 3 | 0 | ✅ Passed |
+| Service Payments | 2 | 2 | 0 | ✅ Passed |
+| Virtual Cards | 3 | 3 | 0 | ✅ Passed |
+
+**Total Execution Rate: 100% | Success Rate: 100%**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+## 🖥️ Project Status and Next Steps
+
+During this testing cycle, I verified the core functionalities of the application, including login, dashboard, transfers, loans, fixed term deposits, service payments and virtual cards. As today 09/02/2026 with the version 3.0 the home banking is working as expected based on the predefined test cases.
+
+As a next step, I will be performing Exploratory Testing to identify any potential edge cases, hidden bugs, or UI/UX inconsistencies that weren't covered in the initial documentation.
