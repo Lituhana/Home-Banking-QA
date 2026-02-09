@@ -4,7 +4,7 @@
 **Focus:** UI/UX, Boundary Value Analysis, Responsiveness and Session Stability.
 
 
-# 📝 **Areas Covered:**
+## 📝 **Areas Covered:**
 
 - Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real time.
 
@@ -14,7 +14,7 @@
 
 - State Management: Investigated how the application handles data removal and modal interactions.
 
-# 💡 **Observations and Findings:**
+## 💡 **Observations and Findings:**
 
     Positive Finding: The "Restablecer saldos" feature works perfectly and is a great tool for maintaining a clean test environment.
 
