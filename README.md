@@ -18,6 +18,8 @@ The goal of this project is to practice and demonstrate core manual QA skills, i
 ## 📂 Project Structure:
 
 - **`01-Documentation`** → Functional specifications and test related documentation.
+        [Functional Specifications - Google Doc](https://docs.google.com/document/d/1KcJmUn0KpLSNQxVGpXlYsOVFYvabJrrsrYG_KFsHDq4/edit?tab=t.0)
+        [Test Plan - Google Doc](https://docs.google.com/document/d/1mw2tHUOUtaQeuTKEvuixQkx5sPYfQTgVr5d5Hxb17q8/edit?tab=t.0)
 - **`02-Tests`** → Executed manual test cases.
 - **`03-Bug-Reports`** → Bug reports created from failed test executions.
 - **`04-Evidence`** → Screenshots and videos as test evidence.
@@ -125,12 +127,12 @@ The test cases for the fixed term deposit part are located in:
 
 ### 🧾 Service Payment Test Cases
 
-- ****
+- **This section covers the workflow for paying utility bills and services, validating balance checks and receipt generation**
 
 The following test cases are included:
 
-- 
-- 
+- Successful service payment and PDF receipt generation.
+- Insufficient balance validation for service payments.
 
 The test cases for the service payment part are located in:
 
@@ -142,12 +144,13 @@ The test cases for the service payment part are located in:
 
 ### 💳 Virtual Card Test Cases
 
-- ****
+- **This part of the project covers the creation of virtual cards, focusing on generation rules and UI/UX consistency**
 
 The following test cases are included:
 
-- 
-- 
+- Virtual card generation limit.
+- Verification of card deletion and regeneration 
+- Visual testing: - Loading spinners and card layout
 
 The test cases for the virtual card part are located in:
 
