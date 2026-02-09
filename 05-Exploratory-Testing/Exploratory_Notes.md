@@ -1,16 +1,25 @@
 # 📝 Exploratory Testing Notes
 
 **Date:** 09-02-2026  
-**Focus:** UI/UX, Boundary Value Analysis, and Mobile Responsiveness.
+**Focus:** UI/UX, Boundary Value Analysis and Responsiveness.
 
-## 🔍 Findings and Observations:
 
-- **Input Overflows (Transfers):** The CBU field allows entering more than 22 characters without any visual warning or maxlength restriction. This could lead to malformed data sent to the server.
-- **Responsive Issues:** When inspecting the dashboard using "Mobile View" (iPhone SE/Pixel 7), the sidebar navigation menu overlaps with the "Recent Transactions" header, making it difficult to read.
-- **Visual Consistency:** In the "Virtual Cards" section, the loading spinner is slightly off-center inside the button during the generation process.
-- **Security/Session:** Verified that the session remains active even after refreshing the page multiple times (F5), which is correct for the current scope.
+📝 Areas Covered:
 
-## 💡 Recommendations:
-- Implement a 22-character limit on the CBU input.
-- Fix CSS media queries for resolutions under 400px.
-- Add backend validation for maximum loan amounts to prevent "Infinity" balance errors.
+    Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real-time.
+
+    Input Validation: Tested fields with special characters and out-of-range numbers (e.g. loans over $500,000). The system correctly blocked these actions.
+
+    UI/UX Analysis: Checked for consistency between the Dashboard and specific modules (Transfers, Cards and Loans).
+
+💡 Observations and Findings:
+
+    Positive Finding: The "Restablecer saldos" feature works perfectly and is a great tool for maintaining a clean test environment.
+
+    Product Clarification: Confirmed that the "Tarjeta de Crédito" shown in the Dashboard is a separate entity from the "Tarjetas Virtuales" section, which requires manual generation.
+
+    Navigation: The menu flow is intuitive and the session remains stable across different sections.
+
+🚀 Conclusion:
+
+The core functionalities are stable and follow the business rules. Except for the responsiveness issue reported in BUG-01, the application provides a smooth user experience.
