@@ -1,8 +1,8 @@
 # 🐛 BUG-02: Application Freeze
 
-**Severity:** - Critical  
-**Priority:** - High  
-**Status:** - Open 
+**Severity** - Critical  
+**Priority** - High  
+**Status** - Open 
 
 ## 📝 Description:
 

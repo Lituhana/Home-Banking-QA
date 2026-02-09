@@ -1,8 +1,8 @@
 # 🐛 BUG-01: Dashboard Layout not Responsive
 
-**Severity:** - Minor  
-**Priority:** - Medium  
-**Status:** - Open  
+**Severity** - Minor  
+**Priority** - Medium  
+**Status** - Open  
 
 ## 📝 Description:
 

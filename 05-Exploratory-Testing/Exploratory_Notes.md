@@ -8,7 +8,7 @@
 
 - Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real time.
 
-- Input Validation: Tested fields with special characters and out of range numbers (ex. Loans over $500,000), the system correctly blocked these actions.
+- Input Validation: Tested fields with special characters and out of range numbers (ex. Loans over $500.000), the system correctly blocked these actions.
 
 - UI/UX Analysis: Checked for consistency between the Dashboard and specific modules (Transfers, cards and loans).
 
@@ -21,7 +21,7 @@
 
 - **UI Issue (BUG-DASH-01):** Identified a lack of responsiveness in the Dashboard and other sections when resizing the window.
 
-- **Critical Issue (BUG-LOAN-02):** Discovered a major stability flaw, cancelling the oldest fixed term triggers a total UI deadlock, this is a critical bug since it leaves the user unable to navigate or log out.
+- **Critical Issue [BUG-LOAN-02](../04-Evidence/nombre-de-tu-archivo.png):** Discovered a major stability flaw, cancelling the oldest fixed term triggers a total UI deadlock, this is a critical bug since it leaves the user unable to navigate or log out.
 
 
 ### 🚀 Conclusion
