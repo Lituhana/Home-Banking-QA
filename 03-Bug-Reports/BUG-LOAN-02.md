@@ -29,3 +29,5 @@ The application should maintain state integrity and remain responsive regardless
 ### 🐞📋 Obtained Result:
 
 Cancelling the first item in the list seems to break the page flow and causes it to freeze completely. After this action, no other buttons or links work, including the "Logout" button, and the user is forced to refresh the browser to continue using the site.
+
+- Evidence: [BUG-LOAN-02](https://github.com/Lituhana/Home-Banking-QA-Project/blob/main/04-Evidence/Screenshots%20%26%20Videos/BUGS/BUG-LOAN-02.mp4)
