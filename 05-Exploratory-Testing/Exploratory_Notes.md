@@ -1,18 +1,20 @@
-# 📝 Exploratory Testing Notes
+# 📝 **Exploratory Testing Notes**
 
 **Date:** 09-02-2026  
-**Focus:** UI/UX, Boundary Value Analysis and Responsiveness.
+**Focus:** UI/UX, Boundary Value Analysis, Responsiveness and Session Stability.
 
 
-📝 Areas Covered:
+# 📝 **Areas Covered:**
 
-    Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real-time.
+- Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real time.
 
-    Input Validation: Tested fields with special characters and out-of-range numbers (e.g. loans over $500,000). The system correctly blocked these actions.
+- Input Validation: Tested fields with special characters and out of range numbers (ex. Loans over $500,000), the system correctly blocked these actions.
 
-    UI/UX Analysis: Checked for consistency between the Dashboard and specific modules (Transfers, Cards and Loans).
+- UI/UX Analysis: Checked for consistency between the Dashboard and specific modules (Transfers, cards and loans).
 
-💡 Observations and Findings:
+- State Management: Investigated how the application handles data removal and modal interactions.
+
+# 💡 **Observations and Findings:**
 
     Positive Finding: The "Restablecer saldos" feature works perfectly and is a great tool for maintaining a clean test environment.
 

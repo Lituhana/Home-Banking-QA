@@ -17,6 +17,7 @@ The application's UI freezes completely if the user cancels the **oldest** "Plaz
 5. Observation: The UI becomes unresponsive.
 
 *Note: If the newest one ($30,000 / 60 days) is cancelled first, the bug does not trigger.*
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ### ⏰📋 Expected Result:
