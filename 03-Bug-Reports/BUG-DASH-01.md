@@ -15,11 +15,15 @@ The Home Banking dashboard and "Transferencias" section do not adjust correctly 
 3. Visualize how key parts of the web are not visible.
 4. Then move to the "Transferencias" tab and see how it loses its responsiveness too.
 
-### Expected Result:
+____________________________________________________________________________________________________________________
+
+### ⏰📋 Expected Result:
 
 The layout should be fluid and responsive, all key fields such as "Cuenta origen" and "Cuenta destino" along with the "Transferir" button should be visible and properly aligned without horizontal clipping.
 
-### Obtained Result:
+_____________________________________________________________________________________________________________________
+
+### 🐞📋 Obtained Result:
 
 The right side of the screen is clipped, and the user cannot see or interact with the full application form, you need to scroll down to see the below parts of the web page.
 
