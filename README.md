@@ -18,7 +18,7 @@ The goal of this project is to practice and demonstrate core manual QA skills, i
 ## 📂 Project Structure:
 
 - **`01-Documentation`** → Functional specifications and test related documentation.
-        [Functional Specifications - Google Doc](https://docs.google.com/document/d/1KcJmUn0KpLSNQxVGpXlYsOVFYvabJrrsrYG_KFsHDq4/edit?tab=t.0)
+        [Functional Specifications - Google Doc](https://docs.google.com/document/d/1KcJmUn0KpLSNQxVGpXlYsOVFYvabJrrsrYG_KFsHDq4/edit?tab=t.0)  
         [Test Plan - Google Doc](https://docs.google.com/document/d/1mw2tHUOUtaQeuTKEvuixQkx5sPYfQTgVr5d5Hxb17q8/edit?tab=t.0)
 - **`02-Tests`** → Executed manual test cases.
 - **`03-Bug-Reports`** → Bug reports created from failed test executions.
