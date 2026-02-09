@@ -1,10 +1,10 @@
-# 📝 **Exploratory Testing Notes**
+# 📝 Exploratory Testing Notes
 
 **Date:** 09-02-2026  
 **Focus:** UI/UX, Boundary Value Analysis, Responsiveness and Session Stability.
 
 
-## 📝 **Areas Covered:**
+## 📝 Areas Covered:
 
 - Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real time.
 
@@ -12,16 +12,18 @@
 
 - UI/UX Analysis: Checked for consistency between the Dashboard and specific modules (Transfers, cards and loans).
 
-- State Management: Investigated how the application handles data removal and modal interactions.
+- State Management: Investigated how the application handles data removal interactions.
 
-## 💡 **Observations and Findings:**
 
-    Positive Finding: The "Restablecer saldos" feature works perfectly and is a great tool for maintaining a clean test environment.
+## 💡 Observations and Findings:
 
-    Product Clarification: Confirmed that the "Tarjeta de Crédito" shown in the Dashboard is a separate entity from the "Tarjetas Virtuales" section, which requires manual generation.
+- Product Clarification: Confirmed that the "Tarjeta de Crédito" shown in the Dashboard is a separate entity from the "Tarjetas Virtuales" section.
 
-    Navigation: The menu flow is intuitive and the session remains stable across different sections.
+- **UI Issue (BUG-DASH-01):** Identified a lack of responsiveness in the Dashboard and other sections when resizing the window.
 
-🚀 Conclusion:
+- **Critical Issue (BUG-LOAN-02):** Discovered a major stability flaw, cancelling the oldest fixed term triggers a total UI deadlock, this is a critical bug since it leaves the user unable to navigate or log out.
 
-The core functionalities are stable and follow the business rules. Except for the responsiveness issue reported in BUG-01, the application provides a smooth user experience.
+
+### 🚀 Conclusion:
+
+While the basic business rules (like loan limits and balance updates) work as intended, the application has significant stability and UI issues. The freezing found during data removal (BUG-LOAN-02) and the responsiveness flaws (BUG-DASH-01) need to be addressed.
