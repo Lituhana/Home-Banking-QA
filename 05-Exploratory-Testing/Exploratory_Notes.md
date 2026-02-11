@@ -4,7 +4,7 @@
 **Focus:** UI/UX, Boundary Value Analysis, Responsiveness and Session Stability.
 
 
-## 📝 Areas Covered
+## ⚒️ Areas Covered
 
 - Balance Integrity: Verified that requesting loans and making transfers correctly updates the total balance in real time.
 
@@ -25,5 +25,6 @@
 
 
 ### 🚀 Conclusion
+
 
 While the basic business rules (like loan limits and balance updates) work as intended, the application has significant stability and UI issues. The freezing found during data removal (BUG-LOAN-02) and the responsiveness flaws (BUG-DASH-01) need to be addressed.
