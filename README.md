@@ -1,4 +1,4 @@
-# **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application 💻
+# **MANUAL QA TESTING PROJECT** - Home Banking Application 💻
 
 ![Testing](https://img.shields.io/badge/Testing-Manual-violet)
 ![Project Type](https://img.shields.io/badge/Project-Portfolio-violet)
