@@ -1,9 +1,8 @@
 # **MANUAL QA TESTING PROJECT** for a Home Banking Demo Application 💻
 
-![Testing Type](https://img.shields.io/badge/Testing-Manual-blue)
-![Project Type](https://img.shields.io/badge/Project-Portfolio-purple)
-![Execution](https://img.shields.io/badge/Test%20Execution-100%25%20Passed-brightgreen)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Testing](https://img.shields.io/badge/Testing-Manual-pink)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Project Type](https://img.shields.io/badge/Project-Portfolio-pink)
 
 This repository contains a manual QA testing project for a Home Banking demo web application (version 3.0).  
 The goal of this project is to practice and demonstrate core manual QA skills, including test case design, test execution, bug reporting and evidence collection, following a basic real world manual testing workflow.
